@@ -1,2 +1,4 @@
 # Git-Github
-practising git commands
+Practising git commands
+
+This is for learning session.
